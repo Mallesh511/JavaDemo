@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! Cloud training. Webhooks tested with http" );
+        System.out.println( "Hello World! Cloud training." );
+        System.out.println( "Enabled webhooks");
     }
 }
